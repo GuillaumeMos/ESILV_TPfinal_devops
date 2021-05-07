@@ -1,9 +1,9 @@
-Bonjour, 
+#Bonjour, 
 
-Bienvenue sur mon projet pour le cours de DevOps avec Mrpadat ! 
+#Bienvenue sur mon projet pour le cours de DevOps avec Mrpandat ! 
 
-La branche main n'est pas focntionelle, elle s'arrete au palier 6, mais n'est pas abouti. 
-La branche master focntionne jusqu'au palier 5. 
+#La branche main n'est pas focntionelle, elle s'arrete au palier 6, mais n'est pas abouti. 
+#La branche master focntionne jusqu'au palier 5. 
 
 
 
