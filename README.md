@@ -1,3 +1,15 @@
+Bonjour, 
+
+Bienvenue sur mon projet pour le cours de DevOps avec Mrpadat ! 
+
+La branche main n'est pas focntionelle, elle s'arrete au palier 6, mais n'est pas abouti. 
+La branche master focntionne jusqu'au palier 5. 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
